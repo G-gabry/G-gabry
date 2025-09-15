@@ -1,7 +1,7 @@
-![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
+
 <h1 align="center">💻 AI & Software Engineer  </h1>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=G-gabry&label=Profile%20views&color=0e75b6&style=flat" alt="G-gabry" /> 
