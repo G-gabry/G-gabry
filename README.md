@@ -1,5 +1,5 @@
 ![MasterHead](https://verifybee.com/wp-content/uploads/2019/11/Header_7cc3c856f5b86ad98f1232bd17cecaf4.gif)
-<h1 align="center">💻 AI & Machine Learning Engineer  </h1>
+<h1 align="center">💻 AI & Software Engineer  </h1>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/59c4c059594379.5a2805b23d18b.gif" />
 
@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/11bvOHbnpEXg_HgEANX3XaUsDOQ12Reb9/view?usp=sharing)  
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1Szx7OUC3RIh-x_0NxTNR0hKOIsIXPD5l/view?usp=sharing)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
 - 📫 **Reach me at**: [s-omar.hefny@zewailcity.edu.eg](mailto:s-omar.hefny@zewailcity.edu.eg) | **+20 1007549327**  
 - ⚡ **Fun fact**: I'm passionate about learning new things!  
@@ -42,7 +42,7 @@
 #### 🏫 **Bachelor's Degree in Communication And Information Engineering**
 
 - ![Zewail City Badge](https://img.shields.io/badge/Zewail_City_University-0055A4?style=flat&logo=university&logoColor=white)
-- ![GPA Badge](https://img.shields.io/badge/GPA-3.4/4.0-brightgreen)
+- ![GPA Badge](https://img.shields.io/badge/GPA-3.27/4.0-brightgreen)
 - ![Duration Badge](https://img.shields.io/badge/Duration-October%2023%20–%20July%2027-yellow)
 
 
@@ -169,7 +169,7 @@
 ## Marketing Introduction
 The **AI Chatbot for Customer Service** The AI Chatbot for Customer Service project focuses on creating a chatbot that uses machine learning to answer customer questions about products. It uses GPT-3.5, customized with product data, to give accurate and relevant responses. The goal is to improve customer service efficiency and make the user experience better..
 
-[![Bank Marketing](https://images.ctfassets.net/9bmss1jcvj9u/2XTFt7DyVHeVQ3lyAhuFmI/861a32ab9c38c7afb221cb11163e274d/Cash-deposits.png)](https://github.com/abdullah-khaled0/BankMarketingCampaign-OpeningATermDeposit)
+
 
 [![Explore the Project](https://img.shields.io/badge/Explore-Project-blue?style=flat&logo=github)](https://github.com/abdullah-khaled0/BankMarketingCampaign-OpeningATermDeposit)
 
@@ -242,10 +242,24 @@ This project will guide you through essential steps in working with imbalanced d
 <br>
 
 ---
+# 🎙️ Voice-Activated AI Assistant  
+**Technologies: Flask, Docker, Whisper, TinyLlama, AWS EC2**
+- Created innovative voice interface using WebRTC for real-time audio capture
+- Integrated OpenAI Whisper for speech-to-text and TinyLlama for response generation
+- Containerized application with Docker and deployed on AWS EC2 with CI/CD pipeline
 
 
+# 🚑 Ambulance Allocation Simulator
+**Technologies: C++, Algorithms, Data Structures (Heaps, Graphs, Hash Maps)**
+- Engineered a discrete-event simulator for multi-hospital network optimization
+- Architected priority-based algorithm using Min-Heaps, reducing emergency response time by 30%
+- Modeled network as Graph with adjacency matrix for O(1) distance lookup
 
-
+# ⚖️ AI-Based Legal Assistant
+**Technologies: AWS, Hugging Face, LLaMA3, OpenWebUI**
+- Built confidential legal research tool supporting Arabic and English queries
+- Reduced legal research time by 60% in test cases
+- Implemented secure data handling protocols for sensitive documents
 ## 🧮 Mathematics & Statistics
 
 
